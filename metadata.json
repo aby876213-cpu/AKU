@@ -1,0 +1,6 @@
+{
+  "name": "OmniVoice",
+  "description": "Asisten pribadi berbasis suara dan teks dengan Omnisearch real-time internet dan pencarian dokumen pribadi (RAG).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,54 @@
+{
+  "documents": [
+    {
+      "id": "11d2d391-ae6f-43fb-a6a7-2e69a4f5e0e5",
+      "title": "Jadwal Minggu Ini",
+      "kind": "note",
+      "mimeType": "text/plain",
+      "charCount": 257,
+      "chunkCount": 1,
+      "preview": "Senin 09:30 WIB: Standup Tim Produk di Ruang Merapi. Rabu 14:00 WIB: Review desain aplikasi mobile bersama Dinda dan Reza. Jumat 15:00 WIB: Jadwal dokter gigi d",
+      "createdAt": "2026-11-20T11:44:38.400Z"
+    },
+    {
+      "id": "6bf70d24-3dc4-463c-b0aa-cf5155156451",
+      "title": "Catatan Rapat Proyek Q4",
+      "kind": "note",
+      "mimeType": "text/plain",
+      "charCount": 341,
+      "chunkCount": 1,
+      "preview": "Keputusan rapat Proyek Q4: Target peluncuran fitur pencarian suara adalah 12 Desember. Anggaran infrastruktur cloud disetujui maksimal Rp 18.500.000 per bulan. ",
+      "createdAt": "2026-11-20T11:44:38.400Z"
+    },
+    {
+      "id": "e78e9d64-142b-4a46-84ac-68477fb41c8a",
+      "title": "Daftar Belanja & Anggaran Bulanan",
+      "kind": "note",
+      "mimeType": "text/plain",
+      "charCount": 278,
+      "chunkCount": 1,
+      "preview": "Anggaran bulanan rumah tangga: Kebutuhan dapur Rp 3.200.000, listrik & internet Rp 950.000, transportasi Rp 1.100.000, tabungan darurat Rp 2.500.000. Daftar bel",
+      "createdAt": "2026-11-20T11:44:38.400Z"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "fd17811e-b3aa-4568-835b-53945bb81812",
+      "docId": "11d2d391-ae6f-43fb-a6a7-2e69a4f5e0e5",
+      "docTitle": "Jadwal Minggu Ini",
+      "text": "Senin 09:30 WIB: Standup Tim Produk di Ruang Merapi. Rabu 14:00 WIB: Review desain aplikasi mobile bersama Dinda dan Reza. Jumat 15:00 WIB: Jadwal dokter gigi di Klinik Senyum Sehat Kemang (drg. Maya). Sabtu 08:00 WIB: Lari pagi 5K di GBK bersama komunitas."
+    },
+    {
+      "id": "6551b9f1-ecee-46dd-b8e7-abffafc3be0b",
+      "docId": "6bf70d24-3dc4-463c-b0aa-cf5155156451",
+      "docTitle": "Catatan Rapat Proyek Q4",
+      "text": "Keputusan rapat Proyek Q4: Target peluncuran fitur pencarian suara adalah 12 Desember. Anggaran infrastruktur cloud disetujui maksimal Rp 18.500.000 per bulan. Prioritas utama: latensi suara di bawah 1,5 detik, dukungan unggah PDF untuk catatan pribadi, dan ringkasan otomatis rapat mingguan. Penanggung jawab backend: Arya, frontend: Nadia."
+    },
+    {
+      "id": "ef43f6ef-dccb-4864-91a2-b26e66765e73",
+      "docId": "e78e9d64-142b-4a46-84ac-68477fb41c8a",
+      "docTitle": "Daftar Belanja & Anggaran Bulanan",
+      "text": "Anggaran bulanan rumah tangga: Kebutuhan dapur Rp 3.200.000, listrik & internet Rp 950.000, transportasi Rp 1.100.000, tabungan darurat Rp 2.500.000. Daftar belanja akhir pekan: biji kopi Arabika Gayo 500g, susu oat 2 liter, dada ayam 1 kg, alpukat, dan kertas A4 untuk printer."
+    }
+  ]
+}
